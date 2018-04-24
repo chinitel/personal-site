@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "/www/shcherbina.pw/admin"
+AuthUserFile /var/www/user11894/data/etc/22937667.passwd
+<Limit GET POST>
+	require valid-user
+</Limit>

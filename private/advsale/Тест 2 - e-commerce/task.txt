@@ -1,0 +1,5 @@
+We have one old template from our designer from 2012. And seems like we have to use it now for our new back site.
+Please create one page in zip.
+You have to use bootstrap as a base, html5/css3.
+The main banner suppose to be a slider with some navigation throught it - bullets I guess (jquery).
+All products are links.

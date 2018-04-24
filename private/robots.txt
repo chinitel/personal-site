@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: 
+Disallow: /rating_comm.php  
+Disallow: /admin/adminka.php
+Sitemap: http://shcherbina.pw/sitemap.xml
+
+User-agent: msnbot
+Disallow: /
